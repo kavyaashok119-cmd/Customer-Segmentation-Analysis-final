@@ -1,0 +1,607 @@
+CustomerID,Gender,Age,AnnualIncome,SpendingScore,PurchaseFrequency,AveragePurchaseValue,TotalPurchases,ProductCategory,Location
+CUST0001,Female,47.0,100100.0,32,13,342.63,63,Home & Kitchen,Houston
+CUST0002,Male,18.0,31800.0,19,15,14.67,64,Groceries,Los Angeles
+CUST0003,Male,42.0,69500.0,31,1,25.8,4,Groceries,
+CUST0004,Female,39.0,105400.0,61,41,129.3,184,Fashion,Phoenix
+CUST0005,Female,49.0,104300.0,59,8,380.84,37,Electronics,Los Angeles
+CUST0006,Male,47.0,59900.0,61,18,86.91,42,Home & Kitchen,Phoenix
+CUST0007,Female,45.0,106000.0,100,40,127.24,138,Groceries,Phoenix
+CUST0008,Male,31.0,21400.0,22,20,27.54,69,Fashion,Houston
+CUST0009,Male,43.0,91800.0,80,45,88.78,93,Sports,Chicago
+CUST0010,Female,18.0,61000.0,52,30,85.23,57,Electronics,Houston
+CUST0011,Male,33.0,81800.0,85,37,128.61,54,Fashion,
+CUST0012,Male,48.0,87100.0,59,11,312.41,40,Beauty,Los Angeles
+CUST0013,Female,38.0,135600.0,66,10,355.13,41,Electronics,Phoenix
+CUST0014,Male,43.0,70400.0,32,2,47.66,8,Groceries,Phoenix
+CUST0015,Male,35.0,24500.0,27,16,25.71,36,Electronics,Chicago
+CUST0016,Male,18.0,59900.0,50,26,66.59,47,Books,Chicago
+CUST0017,Female,55.0,110000.0,73,46,88.21,129,Fashion,Miami
+CUST0018,Female,35.0,74700.0,51,19,78.04,61,Books,Chicago
+CUST0019,Male,51.0,94100.0,65,16,405.23,75,Beauty,Phoenix
+CUST0020,Male,34.0,78900.0,89,31,137.96,139,Electronics,Los Angeles
+CUST0021,Female,44.0,94300.0,81,31,138.57,145,Electronics,Miami
+CUST0022,Male,63.0,61600.0,15,4,64.03,18,Electronics,Phoenix
+CUST0023,Female,53.0,61200.0,20,2,12.13,10,Beauty,Seattle
+CUST0024,Female,47.0,51000.0,18,6,30.48,17,Groceries,Phoenix
+CUST0025,Male,28.0,26300.0,19,18,11.02,21,Home & Kitchen,Chicago
+CUST0026,Male,62.0,53400.0,37,6,35.99,8,Home & Kitchen,Chicago
+CUST0027,Male,31.0,103100.0,80,45,60.71,115,Beauty,Phoenix
+CUST0028,Male,40.0,107100.0,60,16,370.69,32,Beauty,Miami
+CUST0029,Male,61.0,42400.0,34,5,51.37,8,Sports,New York
+CUST0030,Female,41.0,,29,20,31.69,96,Home & Kitchen,Seattle
+CUST0031,Male,61.0,56300.0,26,4,35.8,7,Sports,Seattle
+CUST0032,Female,42.0,99300.0,57,14,418.53,68,Books,New York
+CUST0033,Female,35.0,107200.0,68,39,135.82,158,Fashion,New York
+CUST0034,Male,39.0,51100.0,39,17,105.62,61,Electronics,Phoenix
+CUST0035,Male,49.0,102500.0,68,11,368.72,41,Electronics,Seattle
+CUST0036,Male,18.0,23400.0,25,13,23.9,30,Beauty,Chicago
+CUST0037,Female,52.0,112000.0,56,10,341.69,36,Fashion,Phoenix
+CUST0038,Male,47.0,58400.0,27,4,68.34,7,Books,Miami
+CUST0039,Female,38.0,25000.0,27,8,22.95,38,Beauty,Chicago
+CUST0040,Female,39.0,59500.0,64,20,71.9,44,Home & Kitchen,Los Angeles
+CUST0041,Female,29.0,29300.0,23,18,23.07,36,Groceries,Miami
+CUST0042,Female,41.0,98400.0,72,45,103.33,173,Fashion,Los Angeles
+CUST0043,Female,23.0,33200.0,12,12,27.5,44,Groceries,Houston
+CUST0044,Female,35.0,68600.0,42,5,57.34,14,Electronics,Houston
+CUST0045,Female,35.0,96400.0,75,31,141.52,109,Beauty,Houston
+CUST0046,Female,39.0,117600.0,37,9,300.01,15,Books,Los Angeles
+CUST0047,Female,18.0,30300.0,39,16,36.44,59,Groceries,Phoenix
+CUST0048,Female,31.0,90300.0,88,32,109.22,67,Groceries,Phoenix
+CUST0049,Female,43.0,94500.0,84,43,138.71,90,Home & Kitchen,Los Angeles
+CUST0050,Female,18.0,30400.0,29,13,39.19,21,Groceries,Houston
+CUST0051,Female,30.0,46500.0,59,21,79.6,49,Beauty,New York
+CUST0052,Female,26.0,58400.0,49,28,67.88,65,Beauty,Los Angeles
+CUST0053,Male,48.0,86700.0,76,38,129.05,107,Electronics,Miami
+CUST0054,Female,43.0,61400.0,51,1,32.78,2,Fashion,Houston
+CUST0055,Female,41.0,72900.0,27,1,64.53,2,Beauty,Phoenix
+CUST0056,Female,44.0,45600.0,52,23,65.09,73,Electronics,Miami
+CUST0057,Male,28.0,42900.0,60,15,59.59,23,Sports,Phoenix
+CUST0058,Female,52.0,123000.0,59,11,462.15,41,Groceries,Seattle
+CUST0059,Female,47.0,101100.0,46,11,353.79,53,Books,Phoenix
+CUST0060,Female,56.0,113200.0,43,9,366.55,24,Electronics,Houston
+CUST0061,Female,35.0,94300.0,94,39,108.81,180,Books,Phoenix
+CUST0062,Female,32.0,94000.0,44,12,396.22,17,Electronics,Chicago
+CUST0063,Female,35.0,61400.0,54,23,112.14,27,Home & Kitchen,Miami
+CUST0064,Male,43.0,56000.0,35,3,23.8,12,Groceries,Los Angeles
+CUST0065,Female,53.0,42300.0,37,3,53.71,12,Electronics,Miami
+CUST0066,Male,28.0,88800.0,84,44,105.61,192,Electronics,Miami
+CUST0067,Female,63.0,49700.0,25,3,44.67,4,Electronics,New York
+CUST0068,Female,50.0,49100.0,19,6,61.6,25,Home & Kitchen,Phoenix
+CUST0069,Male,33.0,106500.0,79,38,118.28,95,Groceries,Miami
+CUST0070,Male,47.0,67300.0,45,24,95.65,53,Electronics,Phoenix
+CUST0071,Male,49.0,68900.0,50,25,80.07,42,Electronics,Chicago
+CUST0072,Female,39.0,90700.0,83,49,106.91,244,Beauty,Miami
+CUST0073,Female,35.0,27900.0,30,14,20.49,18,Fashion,Houston
+CUST0074,Male,29.0,23600.0,29,16,38.88,69,Sports,New York
+CUST0075,Female,30.0,30900.0,20,13,30.13,46,Books,Los Angeles
+CUST0076,Male,41.0,57300.0,33,3,62.06,12,Groceries,Phoenix
+CUST0077,Female,25.0,48300.0,57,15,60.15,58,Groceries,Houston
+CUST0078,Male,46.0,52900.0,67,18,59.11,80,Home & Kitchen,Los Angeles
+CUST0079,Male,59.0,40900.0,22,5,68.41,9,Groceries,Seattle
+CUST0080,Male,24.0,28800.0,23,19,32.62,19,Fashion,New York
+CUST0081,Female,30.0,65200.0,50,17,55.89,58,Electronics,Los Angeles
+CUST0082,Male,27.0,27800.0,48,13,26.48,31,Sports,Houston
+CUST0083,Female,56.0,78400.0,36,2,54.83,3,Electronics,New York
+CUST0084,Male,31.0,29500.0,11,14,37.84,24,Groceries,Chicago
+CUST0085,Male,42.0,92200.0,81,41,109.13,95,Sports,Miami
+CUST0086,Male,43.0,88600.0,88,34,111.86,44,Books,Miami
+CUST0087,Male,38.0,110000.0,49,13,203.47,16,Fashion,Miami
+CUST0088,Female,24.0,54100.0,55,24,81.28,112,Home & Kitchen,Chicago
+CUST0089,Male,18.0,29000.0,28,4,22.79,9,Sports,New York
+CUST0090,Female,31.0,47100.0,54,24,62.4,118,Fashion,Seattle
+CUST0091,Male,35.0,53900.0,56,12,45.77,58,Beauty,Chicago
+CUST0092,Male,51.0,75700.0,15,4,64.2,6,Sports,Seattle
+CUST0093,Male,25.0,88400.0,76,30,114.28,116,Books,New York
+CUST0094,Male,42.0,49200.0,70,11,64.17,37,Sports,Phoenix
+CUST0095,Female,33.0,49300.0,55,14,73.05,53,Electronics,Phoenix
+CUST0096,Female,33.0,57600.0,57,26,85.71,36,Home & Kitchen,Miami
+CUST0097,Male,38.0,48600.0,44,11,74.23,19,Beauty,New York
+CUST0098,Female,44.0,87600.0,97,33,146.41,43,Electronics,Chicago
+CUST0099,Female,26.0,30600.0,18,3,34.33,10,Home & Kitchen,Miami
+CUST0100,Female,35.0,88200.0,85,45,126.89,223,Fashion,Chicago
+CUST0101,Female,43.0,89900.0,79,38,146.72,140,Electronics,Phoenix
+CUST0102,Female,34.0,53000.0,54,26,67.32,100,Home & Kitchen,Los Angeles
+CUST0103,Female,61.0,59800.0,36,6,40.18,30,Electronics,Seattle
+CUST0104,Female,34.0,61600.0,56,22,74.45,82,Beauty,Los Angeles
+CUST0105,Female,36.0,,83,38,114.05,44,Electronics,Phoenix
+CUST0106,Female,21.0,20000.0,28,4,22.74,18,Sports,Miami
+CUST0107,Male,47.0,94200.0,45,17,408.27,42,Fashion,Phoenix
+CUST0108,Female,21.0,48700.0,51,21,49.03,21,Groceries,Houston
+CUST0109,Female,34.0,58300.0,38,13,85.37,39,Electronics,Los Angeles
+CUST0110,Male,31.0,19600.0,27,15,26.72,71,Home & Kitchen,Chicago
+CUST0111,Female,48.0,50500.0,67,15,66.94,30,Fashion,Seattle
+CUST0112,Female,32.0,30200.0,34,9,39.74,27,Fashion,Los Angeles
+CUST0113,Male,44.0,58200.0,35,5,48.82,8,Home & Kitchen,Phoenix
+CUST0114,Female,45.0,58600.0,23,3,29.14,4,Groceries,Houston
+CUST0115,Female,18.0,24200.0,29,11,42.61,15,Books,Chicago
+CUST0116,Female,22.0,19800.0,35,8,28.96,31,Fashion,Seattle
+CUST0117,Male,29.0,57100.0,70,24,82.14,107,Electronics,Chicago
+CUST0118,Male,26.0,114400.0,67,11,360.58,17,Sports,Chicago
+CUST0119,Female,19.0,34100.0,18,17,28.6,37,Beauty,Houston
+CUST0120,Male,18.0,25100.0,22,18,27.76,32,Fashion,Seattle
+CUST0121,Male,55.0,110800.0,64,15,345.61,17,Groceries,Miami
+CUST0122,Male,31.0,90200.0,84,34,126.57,109,Home & Kitchen,Phoenix
+CUST0123,Male,25.0,30900.0,23,17,40.85,65,Sports,Phoenix
+CUST0124,Female,65.0,51700.0,16,2,37.27,7,Fashion,Seattle
+CUST0125,Female,41.0,104800.0,47,10,373.17,26,Home & Kitchen,Los Angeles
+CUST0126,Female,39.0,91800.0,36,11,321.43,35,Fashion,Los Angeles
+CUST0127,Female,45.0,68400.0,24,6,44.63,8,Groceries,Houston
+CUST0128,Male,30.0,48600.0,63,22,57.7,36,Electronics,Phoenix
+CUST0129,Male,62.0,61100.0,44,6,47.53,28,Groceries,Phoenix
+CUST0130,Male,21.0,25200.0,24,25,30.86,101,Groceries,Los Angeles
+CUST0131,Male,28.0,86200.0,96,28,133.37,131,Sports,Seattle
+CUST0132,Male,49.0,42700.0,27,6,44.29,28,Electronics,Chicago
+CUST0133,Male,49.0,102600.0,53,12,351.73,43,Fashion,Miami
+CUST0134,Male,61.0,109200.0,37,12,332.22,57,Home & Kitchen,Seattle
+CUST0135,Male,20.0,39500.0,17,6,36.13,16,Beauty,Miami
+CUST0136,Female,37.0,100800.0,52,13,334.87,13,Books,Phoenix
+CUST0137,Female,44.0,101100.0,83,36,128.7,45,Fashion,Houston
+CUST0138,Female,35.0,93400.0,87,47,148.08,68,Groceries,Los Angeles
+CUST0139,Female,41.0,62700.0,39,15,49.47,21,Electronics,Chicago
+CUST0140,Female,45.0,105800.0,73,37,147.28,89,Fashion,Miami
+CUST0141,Male,31.0,103600.0,77,44,113.37,167,Electronics,Chicago
+CUST0142,Female,42.0,35400.0,46,23,47.62,96,Sports,New York
+CUST0143,Male,35.0,114800.0,72,9,263.83,30,Electronics,Los Angeles
+CUST0144,Male,42.0,96400.0,82,36,100.6,57,Fashion,Phoenix
+CUST0145,Male,20.0,25200.0,24,17,17.02,68,Groceries,Phoenix
+CUST0146,Male,50.0,111300.0,44,9,296.19,22,Beauty,Miami
+CUST0147,Male,37.0,28600.0,19,17,42.4,18,Electronics,Miami
+CUST0148,Female,18.0,30400.0,19,18,50.83,38,Electronics,Houston
+CUST0149,Female,31.0,80100.0,73,42,110.83,98,Home & Kitchen,Houston
+CUST0150,Female,40.0,98400.0,86,51,117.38,107,Fashion,Seattle
+CUST0151,Female,50.0,61800.0,26,3,73.68,13,Fashion,New York
+CUST0152,Female,56.0,53000.0,27,6,55.44,24,Beauty,Phoenix
+CUST0153,Male,41.0,64900.0,38,18,65.49,68,Fashion,Houston
+CUST0154,Female,33.0,44400.0,50,23,50.57,36,Beauty,Seattle
+CUST0155,Female,49.0,55800.0,39,3,35.94,13,Fashion,Seattle
+CUST0156,Male,44.0,66900.0,49,21,60.41,78,Fashion,Phoenix
+CUST0157,Male,48.0,86100.0,74,36,121.39,64,Electronics,Phoenix
+CUST0158,Female,33.0,35800.0,42,10,44.53,36,Fashion,Phoenix
+CUST0159,Female,51.0,112000.0,44,13,353.5,38,Electronics,Phoenix
+CUST0160,Female,42.0,86100.0,74,44,102.25,121,Fashion,Los Angeles
+CUST0161,Female,18.0,21900.0,21,9,16.82,13,Books,Los Angeles
+CUST0162,Male,41.0,48100.0,39,23,89.09,71,Groceries,Seattle
+CUST0163,Female,45.0,104600.0,76,40,117.38,56,Fashion,Phoenix
+CUST0164,Male,20.0,27500.0,32,11,26.34,18,Beauty,Los Angeles
+CUST0165,Male,25.0,50000.0,48,30,52.36,46,Beauty,Miami
+CUST0166,Female,56.0,85600.0,46,22,292.46,106,Groceries,Miami
+CUST0167,Male,34.0,50800.0,58,23,70.56,49,Fashion,Phoenix
+CUST0168,Female,25.0,59500.0,47,19,54.81,46,Fashion,Los Angeles
+CUST0169,Male,59.0,74400.0,17,7,60.18,16,Fashion,Miami
+CUST0170,Female,28.0,28300.0,27,10,26.43,46,Electronics,Los Angeles
+CUST0171,Female,41.0,49800.0,43,11,61.98,36,Fashion,Houston
+CUST0172,Female,48.0,47000.0,48,19,62.06,89,Groceries,Miami
+CUST0173,Female,34.0,58200.0,29,6,28.79,13,Books,Houston
+CUST0174,Female,24.0,30300.0,24,16,30.56,23,Electronics,Los Angeles
+CUST0175,Female,31.0,99900.0,42,12,370.4,39,Home & Kitchen,New York
+CUST0176,Female,34.0,111300.0,76,50,104.41,119,Home & Kitchen,Chicago
+CUST0177,Female,37.0,29000.0,38,12,31.16,50,Home & Kitchen,Phoenix
+CUST0178,Male,45.0,89500.0,84,40,120.13,181,Beauty,Seattle
+CUST0179,Male,37.0,104100.0,96,48,111.15,139,Electronics,Los Angeles
+CUST0180,Male,36.0,45400.0,62,23,73.55,112,Groceries,Los Angeles
+CUST0181,Male,32.0,124300.0,54,11,369.48,35,Books,Phoenix
+CUST0182,Male,29.0,60800.0,55,14,79.61,29,Sports,Los Angeles
+CUST0183,Male,45.0,47400.0,37,5,40.99,15,Sports,New York
+CUST0184,Female,18.0,26800.0,13,17,16.31,20,Home & Kitchen,Houston
+CUST0185,Male,33.0,31400.0,29,5,13.75,21,Fashion,Houston
+CUST0186,Female,33.0,38200.0,26,18,26.51,25,Electronics,Los Angeles
+CUST0187,Male,18.0,26600.0,29,16,15.11,36,Beauty,Los Angeles
+CUST0188,Female,32.0,35000.0,26,14,38.07,46,Electronics,Los Angeles
+CUST0189,Male,32.0,23300.0,19,16,28.06,19,Groceries,Chicago
+CUST0190,Male,39.0,65600.0,29,21,98.54,28,Home & Kitchen,New York
+CUST0191,Male,20.0,25900.0,26,10,28.28,38,Home & Kitchen,New York
+CUST0192,Female,58.0,54900.0,28,8,66.97,10,Fashion,Chicago
+CUST0193,Male,36.0,91600.0,78,43,137.9,125,Books,New York
+CUST0194,Female,41.0,44000.0,46,23,46.03,54,Electronics,Chicago
+CUST0195,Male,18.0,33800.0,28,12,35.92,23,Electronics,Phoenix
+CUST0196,Female,33.0,45500.0,37,18,79.09,32,Electronics,New York
+CUST0197,Male,32.0,29600.0,35,13,31.73,53,Sports,Phoenix
+CUST0198,Female,18.0,53000.0,42,24,45.12,115,Books,Phoenix
+CUST0199,Male,42.0,37300.0,34,16,34.0,25,Fashion,Phoenix
+CUST0200,Male,36.0,108300.0,61,11,394.32,53,Books,Phoenix
+CUST0201,Male,39.0,112400.0,63,12,421.82,41,Fashion,Seattle
+CUST0202,Male,25.0,31500.0,19,23,35.3,82,Beauty,New York
+CUST0203,Male,20.0,31500.0,23,5,37.36,19,Electronics,Los Angeles
+CUST0204,Female,47.0,111700.0,66,11,329.38,42,Home & Kitchen,Chicago
+CUST0205,Male,41.0,61800.0,48,24,70.03,103,Sports,Phoenix
+CUST0206,Male,36.0,55500.0,57,14,69.54,41,Beauty,Miami
+CUST0207,Female,41.0,51100.0,59,27,73.72,85,Fashion,Miami
+CUST0208,Male,39.0,63400.0,54,26,68.64,60,Groceries,Phoenix
+CUST0209,Male,44.0,54200.0,55,21,83.1,30,Books,Chicago
+CUST0210,Female,29.0,25600.0,17,14,29.71,51,Home & Kitchen,Chicago
+CUST0211,Female,69.0,57800.0,35,5,54.06,6,Beauty,New York
+CUST0212,Female,54.0,70000.0,28,2,41.47,4,Groceries,Houston
+CUST0213,Male,43.0,72300.0,38,1,30.96,1,Fashion,Houston
+CUST0214,Female,47.0,102700.0,58,11,338.73,19,Groceries,Los Angeles
+CUST0215,Male,38.0,66800.0,62,25,79.73,89,Fashion,Seattle
+CUST0216,Female,38.0,100900.0,75,12,432.37,42,Groceries,Seattle
+CUST0217,Female,27.0,51800.0,64,37,53.18,99,Electronics,Chicago
+CUST0218,Female,35.0,84700.0,73,44,128.56,60,Fashion,Miami
+CUST0219,Male,50.0,41000.0,35,6,47.69,16,Beauty,New York
+CUST0220,Male,38.0,78100.0,77,42,126.98,101,Home & Kitchen,Miami
+CUST0221,Female,40.0,95100.0,55,6,348.22,23,Groceries,Seattle
+CUST0222,Female,23.0,32000.0,18,13,24.39,43,Books,Los Angeles
+CUST0223,Female,36.0,98400.0,81,41,102.97,122,Electronics,Phoenix
+CUST0224,Female,37.0,50000.0,60,24,92.16,71,Fashion,Chicago
+CUST0225,Female,33.0,56400.0,51,19,49.8,92,Fashion,Seattle
+CUST0226,Male,35.0,33500.0,31,20,36.52,81,Home & Kitchen,Los Angeles
+CUST0227,Male,36.0,50200.0,42,22,60.55,66,Home & Kitchen,Los Angeles
+CUST0228,Male,40.0,54600.0,59,17,58.38,50,Groceries,Chicago
+CUST0229,Male,39.0,99800.0,90,45,148.66,50,Groceries,Los Angeles
+CUST0230,Male,36.0,45700.0,60,26,80.32,124,Electronics,Chicago
+CUST0231,Female,35.0,87800.0,81,49,103.09,112,Home & Kitchen,Phoenix
+CUST0232,Female,25.0,32000.0,10,15,31.74,30,Beauty,Phoenix
+CUST0233,Female,30.0,54300.0,56,26,105.8,130,Home & Kitchen,Houston
+CUST0234,Male,36.0,26400.0,19,20,15.6,77,Electronics,Los Angeles
+CUST0235,Female,41.0,66900.0,24,4,64.71,5,Home & Kitchen,Los Angeles
+CUST0236,Female,33.0,88400.0,81,36,132.38,45,Home & Kitchen,Miami
+CUST0237,Female,27.0,27400.0,28,22,37.97,24,Fashion,Los Angeles
+CUST0238,Female,57.0,44000.0,53,30,62.6,102,Groceries,New York
+CUST0239,Female,25.0,24800.0,22,12,36.15,15,Fashion,Houston
+CUST0240,Female,34.0,46000.0,56,19,62.07,90,Beauty,New York
+CUST0241,Female,38.0,51400.0,26,5,44.61,24,Home & Kitchen,Chicago
+CUST0242,Female,33.0,26200.0,25,10,27.75,32,Groceries,Seattle
+CUST0243,Male,30.0,24000.0,31,10,26.77,35,Electronics,Los Angeles
+CUST0244,Male,36.0,133600.0,56,13,366.79,28,Electronics,Phoenix
+CUST0245,Male,35.0,107000.0,39,16,418.17,20,Fashion,Houston
+CUST0246,Female,41.0,51400.0,45,27,83.39,107,Home & Kitchen,Chicago
+CUST0247,Female,63.0,83900.0,41,9,55.95,13,Fashion,Phoenix
+CUST0248,Female,30.0,32400.0,25,14,29.09,19,Groceries,Phoenix
+CUST0249,Male,51.0,77200.0,55,12,337.21,27,Fashion,Chicago
+CUST0250,Male,35.0,119100.0,97,41,78.54,43,Electronics,Los Angeles
+CUST0251,Female,44.0,101600.0,70,13,453.01,36,Home & Kitchen,Miami
+CUST0252,Male,37.0,76200.0,78,44,123.2,169,Groceries,Los Angeles
+CUST0253,Female,49.0,95600.0,57,6,281.76,25,Groceries,Miami
+CUST0254,Male,53.0,57600.0,26,7,46.37,24,Sports,Houston
+CUST0255,Female,35.0,77200.0,89,26,80.18,114,Beauty,Miami
+CUST0256,Female,50.0,81000.0,99,48,133.31,126,Sports,Chicago
+CUST0257,Female,33.0,55200.0,28,17,58.34,75,Sports,Houston
+CUST0258,Male,26.0,48900.0,74,19,68.46,57,Fashion,Phoenix
+CUST0259,Female,30.0,93600.0,92,42,127.67,79,Beauty,Chicago
+CUST0260,Female,35.0,57400.0,45,27,71.67,129,Groceries,Los Angeles
+CUST0261,Female,40.0,57400.0,59,16,76.15,34,Fashion,Houston
+CUST0262,Female,39.0,51100.0,50,18,58.38,20,Sports,Phoenix
+CUST0263,Male,46.0,71900.0,26,6,37.99,12,Home & Kitchen,Los Angeles
+CUST0264,Female,47.0,92600.0,58,11,361.47,27,Home & Kitchen,Seattle
+CUST0265,Male,48.0,52000.0,54,24,54.54,58,Electronics,Phoenix
+CUST0266,Male,54.0,50500.0,26,4,48.32,12,Sports,Los Angeles
+CUST0267,Female,45.0,59200.0,43,24,35.86,109,Groceries,Miami
+CUST0268,Female,25.0,90900.0,91,40,149.1,87,Electronics,New York
+CUST0269,Male,34.0,92600.0,60,9,361.16,28,Fashion,Phoenix
+CUST0270,Male,33.0,57000.0,64,20,71.08,47,Electronics,Houston
+CUST0271,Male,39.0,38900.0,51,25,56.23,107,Electronics,Phoenix
+CUST0272,Male,40.0,54100.0,59,20,60.72,33,Books,Seattle
+CUST0273,Female,28.0,75500.0,84,37,98.6,52,Home & Kitchen,Phoenix
+CUST0274,Male,40.0,85100.0,80,45,97.16,136,Fashion,Phoenix
+CUST0275,Female,38.0,23200.0,28,18,37.96,66,Fashion,Seattle
+CUST0276,Male,50.0,64000.0,34,5,35.59,21,Books,Phoenix
+CUST0277,Male,25.0,24400.0,30,19,37.24,64,Fashion,Seattle
+CUST0278,Female,41.0,98400.0,85,26,142.29,106,Sports,Chicago
+CUST0279,Male,43.0,91300.0,86,45,124.46,116,Fashion,Los Angeles
+CUST0280,Male,65.0,58900.0,25,3,72.6,3,Electronics,Los Angeles
+CUST0281,Female,21.0,28300.0,30,11,27.03,16,Sports,Phoenix
+CUST0282,Female,46.0,92400.0,76,40,107.9,46,Electronics,Houston
+CUST0283,Female,24.0,27800.0,26,16,29.44,37,Sports,New York
+CUST0284,Male,38.0,29200.0,30,15,36.1,45,Fashion,Los Angeles
+CUST0285,Female,26.0,17300.0,19,17,32.25,41,Sports,Miami
+CUST0286,Female,20.0,27600.0,15,14,34.67,45,Groceries,Seattle
+CUST0287,Female,29.0,61200.0,60,28,77.6,82,Sports,Seattle
+CUST0288,Male,33.0,58300.0,55,24,59.56,89,Electronics,Los Angeles
+CUST0289,Male,42.0,75300.0,68,42,126.66,154,Sports,New York
+CUST0290,Male,30.0,37500.0,30,16,24.38,36,Books,Chicago
+CUST0291,Male,48.0,37000.0,64,26,35.12,62,Fashion,Seattle
+CUST0292,Female,40.0,85000.0,83,43,121.83,144,Fashion,Houston
+CUST0293,Male,38.0,60100.0,70,22,59.52,74,Groceries,Seattle
+CUST0294,Male,31.0,85800.0,74,42,100.76,95,Electronics,Houston
+CUST0295,Male,58.0,103000.0,72,14,167.58,32,Sports,Houston
+CUST0296,Female,44.0,63100.0,55,23,75.47,87,Groceries,Phoenix
+CUST0297,Male,33.0,62100.0,39,4,46.43,14,Electronics,Miami
+CUST0298,Male,49.0,93400.0,53,11,312.89,17,Beauty,Houston
+CUST0299,Male,54.0,74500.0,30,4,49.29,11,Beauty,Phoenix
+CUST0300,Female,44.0,61400.0,34,27,67.78,123,Fashion,Miami
+CUST0301,Male,42.0,86200.0,54,10,279.79,11,Groceries,Chicago
+CUST0302,Female,18.0,32900.0,33,15,36.3,66,Electronics,Seattle
+CUST0303,Male,43.0,63000.0,35,3,37.68,5,Fashion,Houston
+CUST0304,Male,49.0,59100.0,20,5,67.66,15,Groceries,Miami
+CUST0305,Male,34.0,91700.0,86,40,90.1,108,Fashion,Houston
+CUST0306,Male,33.0,58000.0,51,23,71.06,24,Groceries,Phoenix
+CUST0307,Male,49.0,108800.0,54,13,430.84,61,Electronics,Chicago
+CUST0308,Female,28.0,20800.0,17,15,27.16,42,Home & Kitchen,Phoenix
+CUST0309,Female,35.0,99800.0,55,10,314.39,48,Electronics,Chicago
+CUST0310,Male,41.0,90400.0,66,15,381.6,32,Sports,Phoenix
+CUST0311,Male,51.0,115000.0,58,13,364.47,58,Groceries,Seattle
+CUST0312,Female,29.0,31800.0,19,17,33.26,80,Groceries,Houston
+CUST0313,Male,34.0,55400.0,45,23,86.64,74,Books,Houston
+CUST0314,Male,20.0,20300.0,27,4,35.46,7,Sports,Chicago
+CUST0315,Male,33.0,54800.0,47,21,95.59,79,Groceries,Seattle
+CUST0316,Male,44.0,76700.0,73,50,132.75,160,Home & Kitchen,Phoenix
+CUST0317,Male,33.0,29000.0,26,19,17.82,91,Books,Houston
+CUST0318,Female,39.0,85900.0,80,43,168.41,119,Beauty,New York
+CUST0319,Female,38.0,32000.0,35,19,28.76,39,Groceries,New York
+CUST0320,Female,58.0,31400.0,28,4,43.5,6,Fashion,New York
+CUST0321,Male,49.0,113400.0,56,16,369.85,61,Home & Kitchen,Seattle
+CUST0322,Male,30.0,29200.0,27,17,22.14,83,Sports,Seattle
+CUST0323,Male,33.0,41300.0,26,13,36.55,14,Fashion,New York
+CUST0324,Male,35.0,19600.0,19,13,44.26,52,Fashion,New York
+CUST0325,Male,42.0,52100.0,39,18,87.54,85,Books,Seattle
+CUST0326,Male,51.0,71000.0,49,22,86.79,29,Home & Kitchen,Houston
+CUST0327,Male,35.0,47000.0,41,16,74.11,23,Fashion,Chicago
+CUST0328,Male,47.0,61800.0,53,18,71.43,68,Fashion,Phoenix
+CUST0329,Male,19.0,28500.0,19,19,36.55,68,Home & Kitchen,Los Angeles
+CUST0330,Female,38.0,92300.0,83,36,116.22,46,Beauty,Los Angeles
+CUST0331,Male,35.0,27500.0,26,13,24.94,56,Books,Chicago
+CUST0332,Female,37.0,81900.0,96,39,142.12,121,Books,Miami
+CUST0333,Male,44.0,104800.0,52,12,372.42,56,Sports,Seattle
+CUST0334,Female,27.0,48000.0,60,24,62.02,108,Sports,Los Angeles
+CUST0335,Male,46.0,54700.0,52,21,50.32,89,Fashion,Houston
+CUST0336,Female,49.0,55400.0,26,7,45.29,21,Groceries,Miami
+CUST0337,Male,46.0,93800.0,85,32,127.33,64,Fashion,Miami
+CUST0338,Male,44.0,81800.0,40,10,429.41,30,Electronics,Seattle
+CUST0339,Female,25.0,24100.0,31,4,24.42,6,Books,New York
+CUST0340,Male,39.0,32800.0,53,23,42.22,84,Groceries,Los Angeles
+CUST0341,Male,23.0,40500.0,54,21,72.12,32,Fashion,Los Angeles
+CUST0342,Female,42.0,54100.0,39,4,55.78,12,Sports,Los Angeles
+CUST0343,Male,33.0,67100.0,62,16,67.16,19,Home & Kitchen,Los Angeles
+CUST0344,Female,43.0,96400.0,62,15,374.54,33,Fashion,Chicago
+CUST0345,Female,36.0,54600.0,49,29,63.2,56,Fashion,Houston
+CUST0346,Male,63.0,62900.0,50,1,32.76,3,Electronics,Chicago
+CUST0347,Male,70.0,49900.0,33,4,36.05,17,Beauty,Chicago
+CUST0348,Male,31.0,83900.0,80,46,126.95,57,Home & Kitchen,Los Angeles
+CUST0349,Female,24.0,23300.0,16,19,26.53,84,Home & Kitchen,Los Angeles
+CUST0350,Male,46.0,55800.0,63,14,74.71,62,Fashion,Miami
+CUST0351,Male,43.0,57200.0,57,32,70.12,76,Books,Phoenix
+CUST0352,Male,32.0,52200.0,61,22,65.11,80,Beauty,Los Angeles
+CUST0353,Female,43.0,98700.0,61,10,397.01,26,Groceries,Seattle
+CUST0354,Female,23.0,19300.0,31,20,25.19,32,Electronics,Seattle
+CUST0355,Female,63.0,56500.0,17,5,59.14,16,Beauty,Miami
+CUST0356,Female,48.0,74200.0,59,15,393.3,20,Groceries,Los Angeles
+CUST0357,Female,33.0,20400.0,21,17,19.92,77,Fashion,Phoenix
+CUST0358,Female,50.0,59900.0,60,10,74.52,47,Fashion,Miami
+CUST0359,Female,32.0,53300.0,55,15,67.84,64,Fashion,Seattle
+CUST0360,Female,31.0,50400.0,26,2,18.18,7,Fashion,Los Angeles
+CUST0361,Male,43.0,103300.0,57,12,407.88,39,Home & Kitchen,
+CUST0362,Female,19.0,28800.0,14,7,27.44,35,Fashion,Chicago
+CUST0363,Female,27.0,69500.0,96,41,125.16,82,Fashion,Houston
+CUST0364,Male,33.0,84500.0,66,13,379.48,17,Beauty,Houston
+CUST0365,Male,37.0,61000.0,56,29,65.79,94,Electronics,Seattle
+CUST0366,Male,29.0,29000.0,35,15,23.81,35,Fashion,New York
+CUST0367,Female,30.0,89500.0,86,35,151.29,80,Sports,Houston
+CUST0368,Male,45.0,57900.0,47,28,54.22,29,Electronics,Seattle
+CUST0369,Female,25.0,55700.0,67,26,49.92,88,Fashion,Houston
+CUST0370,Male,31.0,40500.0,56,21,48.37,43,Fashion,Los Angeles
+CUST0371,Female,35.0,27800.0,24,12,41.49,21,Electronics,New York
+CUST0372,Male,44.0,101000.0,58,6,399.37,7,Home & Kitchen,Houston
+CUST0373,Female,35.0,93300.0,54,13,297.92,32,Electronics,Phoenix
+CUST0374,Female,34.0,55000.0,40,24,33.79,108,Fashion,Houston
+CUST0375,Male,,68000.0,61,28,54.14,66,Books,Miami
+CUST0376,Male,42.0,44400.0,38,20,61.93,74,Books,Phoenix
+CUST0377,Male,46.0,50300.0,44,5,44.99,20,Fashion,Houston
+CUST0378,Male,31.0,31000.0,25,11,12.46,25,Fashion,New York
+CUST0379,Female,26.0,31200.0,20,10,34.44,43,Home & Kitchen,Houston
+CUST0380,Female,22.0,30800.0,23,14,35.05,53,Groceries,Los Angeles
+CUST0381,Female,54.0,64500.0,36,4,41.26,13,Groceries,Seattle
+CUST0382,Female,22.0,37500.0,28,12,29.87,12,Electronics,Los Angeles
+CUST0383,Male,37.0,84200.0,63,12,376.47,14,Electronics,Miami
+CUST0384,Female,44.0,67100.0,38,5,63.54,25,Home & Kitchen,Chicago
+CUST0385,Female,26.0,56200.0,50,19,96.97,78,Groceries,Houston
+CUST0386,Male,34.0,42400.0,66,25,33.45,119,Groceries,Los Angeles
+CUST0387,Female,35.0,82700.0,82,28,116.59,129,Electronics,Los Angeles
+CUST0388,Male,48.0,47000.0,67,16,71.93,17,Beauty,Miami
+CUST0389,Female,48.0,102900.0,67,17,306.65,71,Electronics,Los Angeles
+CUST0390,Female,53.0,64900.0,37,4,41.48,11,Sports,Houston
+CUST0391,Female,31.0,26500.0,28,15,30.82,62,Books,Miami
+CUST0392,Male,29.0,34000.0,21,17,36.78,17,Home & Kitchen,Phoenix
+CUST0393,Female,59.0,63700.0,24,7,47.73,15,Electronics,New York
+CUST0394,Male,29.0,26300.0,22,15,22.34,60,Beauty,Chicago
+CUST0395,Female,41.0,65000.0,30,1,61.92,4,Home & Kitchen,Chicago
+CUST0396,Male,34.0,29400.0,47,19,22.23,66,Groceries,Los Angeles
+CUST0397,Female,34.0,16600.0,43,9,46.86,20,Fashion,Los Angeles
+CUST0398,Female,44.0,59500.0,28,2,43.92,4,Groceries,Houston
+CUST0399,Male,22.0,53600.0,49,24,62.25,117,Fashion,Chicago
+CUST0400,Male,19.0,29200.0,35,6,33.84,17,Electronics,Chicago
+CUST0401,Female,18.0,16100.0,26,14,28.29,39,Fashion,Chicago
+CUST0402,Male,23.0,34700.0,30,12,30.72,39,Electronics,Chicago
+CUST0403,Male,43.0,101300.0,46,10,318.89,26,Fashion,Los Angeles
+CUST0404,Male,47.0,102100.0,42,15,344.69,48,Sports,Houston
+CUST0405,Male,20.0,38700.0,17,15,19.49,41,Electronics,Miami
+CUST0406,Female,29.0,17100.0,29,15,32.87,65,Electronics,Houston
+CUST0407,Female,32.0,29800.0,29,17,29.98,79,Electronics,Phoenix
+CUST0408,Male,28.0,26600.0,27,13,18.47,61,Electronics,Miami
+CUST0409,Male,23.0,60200.0,50,21,86.49,68,Groceries,Phoenix
+CUST0410,Male,36.0,89200.0,61,12,410.02,33,Books,Los Angeles
+CUST0411,Male,64.0,59300.0,37,4,42.65,15,Electronics,Chicago
+CUST0412,Female,32.0,57900.0,51,25,76.75,109,Groceries,Houston
+CUST0413,Male,44.0,63000.0,55,21,61.35,68,Sports,Houston
+CUST0414,Female,56.0,64500.0,36,2,59.03,8,Books,Los Angeles
+CUST0415,Female,41.0,114500.0,44,8,325.8,32,Fashion,New York
+CUST0416,Female,43.0,66600.0,39,24,104.01,89,Fashion,Chicago
+CUST0417,Female,49.0,119600.0,51,18,338.39,72,Home & Kitchen,Miami
+CUST0418,Male,24.0,25300.0,24,12,25.72,22,Groceries,Seattle
+CUST0419,Male,26.0,92700.0,57,7,325.86,21,Sports,Seattle
+CUST0420,Male,57.0,63900.0,25,2,69.38,7,Home & Kitchen,Los Angeles
+CUST0421,Female,24.0,53500.0,52,26,43.93,26,Fashion,Chicago
+CUST0422,Female,18.0,52500.0,59,22,72.03,97,Sports,Phoenix
+CUST0423,Male,37.0,91600.0,63,13,286.15,45,Groceries,Houston
+CUST0424,Male,47.0,129600.0,60,9,377.78,14,Home & Kitchen,Chicago
+CUST0425,Male,,15100.0,42,14,38.66,60,Sports,Chicago
+CUST0426,Female,33.0,29400.0,26,16,24.04,62,Home & Kitchen,New York
+CUST0427,Female,22.0,20000.0,25,15,30.81,60,Home & Kitchen,Miami
+CUST0428,Female,35.0,57900.0,46,29,87.87,74,Home & Kitchen,Miami
+CUST0429,Female,48.0,61500.0,30,3,36.82,13,Groceries,New York
+CUST0430,Male,18.0,32000.0,24,13,29.02,35,Books,Chicago
+CUST0431,Female,35.0,38300.0,56,28,46.12,92,Home & Kitchen,Houston
+CUST0432,Female,38.0,100300.0,33,4,255.96,4,Fashion,Seattle
+CUST0433,Male,51.0,61800.0,25,3,52.69,11,Fashion,Miami
+CUST0434,Female,60.0,67400.0,49,16,71.46,62,Electronics,Chicago
+CUST0435,Male,56.0,53100.0,29,10,14.81,33,Fashion,Seattle
+CUST0436,Female,40.0,79600.0,71,35,113.21,105,Electronics,Miami
+CUST0437,Female,35.0,100000.0,88,43,104.27,182,Home & Kitchen,Seattle
+CUST0438,Female,61.0,74000.0,33,4,45.34,15,Electronics,Chicago
+CUST0439,Female,18.0,28700.0,11,12,29.2,25,Fashion,Seattle
+CUST0440,Male,51.0,108800.0,64,9,444.11,44,Groceries,Chicago
+CUST0441,Female,39.0,32700.0,17,12,38.37,46,Fashion,New York
+CUST0442,Female,39.0,73300.0,80,41,141.28,203,Beauty,Seattle
+CUST0443,Female,40.0,102100.0,54,9,356.55,44,Books,Seattle
+CUST0444,Female,44.0,77700.0,68,32,113.29,150,Beauty,Chicago
+CUST0445,Male,37.0,59600.0,41,23,98.84,92,Fashion,Houston
+CUST0446,Female,42.0,104600.0,70,32,106.23,110,Fashion,Chicago
+CUST0447,Female,30.0,45200.0,49,16,61.93,27,Beauty,New York
+CUST0448,Male,40.0,102300.0,65,4,279.16,13,Home & Kitchen,Miami
+CUST0449,Female,38.0,64500.0,41,20,51.75,81,Electronics,New York
+CUST0450,Female,47.0,112500.0,69,8,372.59,25,Home & Kitchen,Houston
+CUST0451,Female,39.0,79800.0,75,36,113.14,161,Beauty,New York
+CUST0452,Female,47.0,92700.0,85,39,158.74,56,Fashion,Phoenix
+CUST0453,Male,41.0,93100.0,99,37,126.28,93,Beauty,Miami
+CUST0454,Female,55.0,116400.0,73,14,299.88,42,Electronics,Phoenix
+CUST0455,Male,47.0,104000.0,73,12,365.48,33,Fashion,Phoenix
+CUST0456,Female,35.0,67300.0,42,14,84.83,20,Groceries,Seattle
+CUST0457,Female,27.0,45100.0,30,15,33.88,24,Fashion,Miami
+CUST0458,Female,28.0,27400.0,25,8,23.08,35,Beauty,Miami
+CUST0459,Female,20.0,42200.0,57,16,53.5,47,Home & Kitchen,Los Angeles
+CUST0460,Female,54.0,57600.0,26,2,43.41,2,Fashion,Houston
+CUST0461,Female,26.0,96400.0,86,48,122.63,51,Books,Seattle
+CUST0462,Male,43.0,78200.0,85,54,131.62,156,Fashion,Chicago
+CUST0463,Female,30.0,70500.0,49,20,47.49,33,Fashion,Phoenix
+CUST0464,Female,22.0,23200.0,19,13,46.17,50,Books,New York
+CUST0465,Male,30.0,35200.0,41,27,69.88,113,Sports,Miami
+CUST0466,Female,31.0,76400.0,22,8,63.91,15,Sports,Phoenix
+CUST0467,Female,37.0,118400.0,48,13,335.86,44,Electronics,Seattle
+CUST0468,Female,24.0,32600.0,21,17,34.42,28,Electronics,Seattle
+CUST0469,Female,52.0,62700.0,38,5,54.61,11,Beauty,Los Angeles
+CUST0470,Male,42.0,91600.0,79,49,123.71,223,Fashion,Houston
+CUST0471,Female,36.0,45100.0,27,2,19.46,6,Fashion,Miami
+CUST0472,Male,62.0,72900.0,23,6,29.72,27,Groceries,Los Angeles
+CUST0473,Male,36.0,45500.0,52,26,68.21,49,Fashion,Seattle
+CUST0474,Female,20.0,28200.0,22,18,21.85,42,Electronics,Chicago
+CUST0475,Male,27.0,55200.0,57,20,60.06,58,Electronics,Phoenix
+CUST0476,Male,37.0,49600.0,50,13,61.55,38,Home & Kitchen,Houston
+CUST0477,Female,26.0,23400.0,32,23,32.21,115,Beauty,Phoenix
+CUST0478,Male,30.0,73300.0,40,27,51.26,39,Groceries,Seattle
+CUST0479,Male,38.0,39700.0,54,16,43.6,71,Electronics,Chicago
+CUST0480,Male,22.0,84100.0,80,33,109.32,147,Fashion,Los Angeles
+CUST0481,Female,26.0,62100.0,55,32,63.01,103,Home & Kitchen,Chicago
+CUST0482,Male,52.0,56300.0,39,1,36.16,2,Fashion,Phoenix
+CUST0483,Female,52.0,45700.0,31,5,57.68,15,Home & Kitchen,Seattle
+CUST0484,Female,34.0,28100.0,18,16,26.31,35,Books,Seattle
+CUST0485,Male,35.0,81200.0,83,35,111.03,147,Beauty,Chicago
+CUST0486,Female,32.0,44400.0,56,21,73.36,63,Home & Kitchen,Miami
+CUST0487,Male,18.0,22000.0,41,18,41.02,85,Books,New York
+CUST0488,Male,63.0,65100.0,44,4,50.07,14,Electronics,New York
+CUST0489,Male,57.0,48900.0,29,6,44.36,18,Books,New York
+CUST0490,Female,38.0,69400.0,58,22,64.22,85,Home & Kitchen,Miami
+CUST0491,Male,44.0,58200.0,51,27,63.35,81,Home & Kitchen,Los Angeles
+CUST0492,Female,40.0,78000.0,64,12,344.51,55,Books,Phoenix
+CUST0493,Male,41.0,81600.0,89,36,112.76,63,Home & Kitchen,Seattle
+CUST0494,Female,36.0,51700.0,52,22,66.78,108,Home & Kitchen,Seattle
+CUST0495,Male,32.0,52100.0,43,17,46.49,72,Fashion,Miami
+CUST0496,Male,35.0,89600.0,73,35,129.08,156,Sports,New York
+CUST0497,Male,28.0,29800.0,17,24,26.99,70,Beauty,Chicago
+CUST0498,Female,40.0,107700.0,78,48,171.95,209,Fashion,Houston
+CUST0499,Male,34.0,94100.0,100,41,97.65,91,Sports,Phoenix
+CUST0500,Female,35.0,21300.0,19,14,25.16,57,Beauty,Phoenix
+CUST0501,Female,,65300.0,51,21,73.9,33,Home & Kitchen,Houston
+CUST0502,Female,26.0,37600.0,64,29,82.63,65,Electronics,Chicago
+CUST0503,Male,,60600.0,50,20,47.93,56,Home & Kitchen,New York
+CUST0504,Female,44.0,94600.0,73,11,341.51,25,Electronics,Houston
+CUST0505,Female,41.0,79800.0,70,45,119.48,115,Electronics,Los Angeles
+CUST0506,Female,60.0,59800.0,38,5,36.89,21,Home & Kitchen,Houston
+CUST0507,Female,18.0,32700.0,20,9,26.1,18,Electronics,Seattle
+CUST0508,Female,39.0,54900.0,55,32,68.66,127,Fashion,Houston
+CUST0509,Female,33.0,22500.0,27,14,25.66,18,Sports,Phoenix
+CUST0510,Female,36.0,33800.0,56,17,53.08,69,Fashion,New York
+CUST0511,Male,31.0,25400.0,27,7,34.93,29,Books,Phoenix
+CUST0512,Female,37.0,68500.0,47,16,71.1,42,Books,Houston
+CUST0513,Female,31.0,35100.0,30,19,15.26,74,Beauty,New York
+CUST0514,Female,28.0,24600.0,44,14,38.22,65,Books,Los Angeles
+CUST0515,Female,23.0,24200.0,18,18,34.92,76,Groceries,Seattle
+CUST0516,Male,33.0,84700.0,55,18,350.3,46,Fashion,Miami
+CUST0517,Male,39.0,83500.0,92,43,113.83,126,Sports,Houston
+CUST0518,Male,32.0,38300.0,33,10,43.65,41,Electronics,Miami
+CUST0519,Female,44.0,127200.0,65,13,334.1,28,Sports,Los Angeles
+CUST0520,Male,52.0,48600.0,22,3,48.11,13,Home & Kitchen,Chicago
+CUST0521,Female,53.0,49400.0,23,2,36.34,5,Electronics,Miami
+CUST0522,Female,44.0,85500.0,86,42,83.37,177,Fashion,Los Angeles
+CUST0523,Female,42.0,92200.0,70,47,141.34,63,Books,Phoenix
+CUST0524,Male,47.0,109700.0,42,6,369.14,7,Fashion,Los Angeles
+CUST0525,Female,44.0,100700.0,85,39,114.31,195,Fashion,Chicago
+CUST0526,Male,22.0,21100.0,15,8,31.96,36,Fashion,Houston
+CUST0527,Female,26.0,32800.0,31,12,11.38,54,Home & Kitchen,Chicago
+CUST0528,Male,57.0,112800.0,55,7,372.19,34,Groceries,Miami
+CUST0529,Male,42.0,45800.0,59,20,75.83,55,Groceries,Miami
+CUST0530,Male,26.0,80300.0,82,39,118.86,84,Home & Kitchen,Houston
+CUST0531,Female,18.0,51500.0,49,25,73.16,38,Fashion,Houston
+CUST0532,Male,21.0,42500.0,70,22,83.72,66,Electronics,New York
+CUST0533,Female,36.0,49600.0,63,25,46.41,47,Home & Kitchen,Los Angeles
+CUST0534,Female,35.0,,24,16,31.99,76,Groceries,New York
+CUST0535,Female,24.0,22000.0,10,10,47.69,10,Sports,Seattle
+CUST0536,Male,48.0,58300.0,36,4,72.97,6,Home & Kitchen,Los Angeles
+CUST0537,Male,48.0,61300.0,53,18,67.54,36,Beauty,Chicago
+CUST0538,Male,47.0,55900.0,55,31,77.55,56,Home & Kitchen,Seattle
+CUST0539,Male,32.0,98700.0,69,12,291.88,23,Beauty,Phoenix
+CUST0540,Female,28.0,31300.0,22,19,34.57,69,Home & Kitchen,Phoenix
+CUST0541,Male,24.0,33800.0,25,18,30.09,42,Sports,New York
+CUST0542,Male,36.0,85200.0,80,42,142.96,145,Home & Kitchen,Houston
+CUST0543,Male,26.0,30900.0,34,6,44.58,27,Books,Houston
+CUST0544,Female,30.0,72700.0,93,44,83.38,150,Home & Kitchen,Chicago
+CUST0545,Male,33.0,72900.0,34,4,47.21,15,Electronics,Seattle
+CUST0546,Female,42.0,76300.0,84,43,121.99,106,Fashion,Miami
+CUST0547,Male,36.0,43700.0,48,24,70.8,39,Home & Kitchen,Los Angeles
+CUST0548,Female,43.0,68700.0,79,35,114.14,80,Beauty,Chicago
+CUST0549,Female,22.0,17200.0,25,11,16.12,53,Beauty,Chicago
+CUST0550,Male,33.0,24000.0,11,16,40.58,56,Sports,Seattle
+CUST0551,Male,26.0,19700.0,26,17,38.73,36,Fashion,New York
+CUST0552,Male,31.0,33400.0,36,15,32.33,42,Sports,Miami
+CUST0553,Male,37.0,88400.0,92,41,116.17,178,Sports,Seattle
+CUST0554,Male,33.0,38000.0,51,13,91.94,48,Home & Kitchen,Houston
+CUST0555,Female,35.0,47300.0,46,28,88.19,91,Home & Kitchen,Phoenix
+CUST0556,Female,39.0,70700.0,48,12,54.62,54,Electronics,Miami
+CUST0557,Male,47.0,91800.0,80,42,90.46,155,Home & Kitchen,Seattle
+CUST0558,Female,28.0,59700.0,45,18,79.43,64,Groceries,Los Angeles
+CUST0559,Male,39.0,29300.0,21,22,25.39,39,Books,New York
+CUST0560,Female,34.0,50400.0,45,18,68.3,26,Beauty,Phoenix
+CUST0561,Male,47.0,99500.0,56,10,349.9,49,Fashion,Los Angeles
+CUST0562,Female,60.0,54100.0,30,3,39.18,10,Sports,New York
+CUST0563,Female,28.0,28300.0,16,13,45.14,35,Sports,Miami
+CUST0564,Male,49.0,60700.0,31,2,39.64,7,Fashion,Houston
+CUST0565,Male,25.0,28600.0,29,10,29.64,12,Groceries,Phoenix
+CUST0566,Male,35.0,47600.0,50,8,88.43,34,Electronics,Los Angeles
+CUST0567,Female,49.0,59400.0,34,2,48.65,4,Electronics,New York
+CUST0568,Female,45.0,113400.0,44,10,273.46,42,Electronics,New York
+CUST0569,Female,18.0,27000.0,25,20,25.31,63,Electronics,Chicago
+CUST0570,Female,35.0,65900.0,21,1,39.18,2,Groceries,New York
+CUST0571,Female,31.0,99300.0,95,30,141.71,34,Home & Kitchen,Chicago
+CUST0572,Female,36.0,26100.0,18,24,30.99,102,Fashion,Chicago
+CUST0573,Female,45.0,47200.0,42,1,29.77,2,Home & Kitchen,Houston
+CUST0574,Female,28.0,49300.0,62,25,49.27,30,Home & Kitchen,Phoenix
+CUST0575,Male,33.0,80700.0,81,28,161.54,113,Fashion,Chicago
+CUST0576,Female,41.0,60300.0,58,15,61.52,36,Electronics,Houston
+CUST0577,Male,20.0,21300.0,18,17,39.86,43,Sports,New York
+CUST0578,Male,60.0,120000.0,58,12,373.88,24,Electronics,Chicago
+CUST0579,Female,48.0,50600.0,48,15,61.24,67,Groceries,Miami
+CUST0580,Male,40.0,104900.0,59,12,386.78,26,Fashion,Miami
+CUST0581,Male,33.0,32600.0,27,2,39.07,4,Sports,Houston
+CUST0582,Male,33.0,29500.0,16,12,23.38,27,Groceries,Miami
+CUST0583,Female,25.0,30300.0,16,17,34.34,31,Electronics,Houston
+CUST0584,Female,47.0,49700.0,55,22,55.25,50,Electronics,New York
+CUST0585,Male,45.0,61400.0,53,10,62.62,13,Books,Miami
+CUST0586,Male,45.0,125000.0,45,9,355.96,15,Home & Kitchen,Chicago
+CUST0587,Male,31.0,77800.0,80,31,101.18,83,Beauty,Phoenix
+CUST0588,Female,30.0,26400.0,32,15,16.38,68,Electronics,Phoenix
+CUST0589,Male,38.0,81100.0,79,26,152.58,32,Fashion,Chicago
+CUST0590,Female,25.0,28600.0,23,20,25.62,37,Home & Kitchen,Seattle
+CUST0591,Female,28.0,55500.0,71,21,63.23,97,Groceries,Houston
+CUST0592,Male,41.0,51700.0,37,19,66.45,87,Fashion,Chicago
+CUST0593,Female,28.0,25000.0,21,15,42.17,56,Groceries,Chicago
+CUST0594,Female,61.0,107100.0,53,6,318.89,12,Sports,Seattle
+CUST0595,Female,37.0,83600.0,65,50,159.02,134,Electronics,Los Angeles
+CUST0596,Male,29.0,92900.0,82,41,89.95,76,Fashion,New York
+CUST0597,Female,30.0,86700.0,91,34,72.11,51,Fashion,Miami
+CUST0598,Female,31.0,47800.0,62,25,61.29,63,Home & Kitchen,Chicago
+CUST0599,Female,18.0,19200.0,25,16,30.29,53,Beauty,Phoenix
+CUST0600,Female,35.0,99200.0,90,45,88.68,110,Home & Kitchen,Seattle
+CUST0111,Female,48.0,50500.0,67,15,66.94,30,Fashion,Seattle
+CUST0420,Male,57.0,63900.0,25,2,69.38,7,Home & Kitchen,Los Angeles
+CUST0566,Male,35.0,47600.0,50,8,88.43,34,Electronics,Los Angeles
+CUST0078,Male,46.0,52900.0,67,18,59.11,80,Home & Kitchen,Los Angeles
+CUST0182,Male,29.0,60800.0,55,14,79.61,29,Sports,Los Angeles
+CUST0285,Female,26.0,17300.0,19,17,32.25,41,Sports,Miami
